@@ -2,6 +2,9 @@
 
 A **relational database system** for managing hospital operations including patients, doctors, appointments, and laboratory tests — built with SQL and MySQL Workbench as a 1st-semester CS project at Nile University.
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Workbench-orange)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
 
